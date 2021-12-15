@@ -1,4 +1,4 @@
-1. # Kristina Drazdova<h2>
+1. # Kristina Drozdova<h2>
 2. Phone: +375 29 291 96 54
    Email: kristina.drozdova96@gmail.com
    Discord: Kristina96#4797
