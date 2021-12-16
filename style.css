@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+}
+.my-name {
+  margin: 30px 0;
+  text-align: center;
+  color: #8b0000;
+  font-size: 30px;
+}
+.contacts {
+  display: flex;
+}
+.photo {
+  height: 420px;
+  border: 2px solid #8b0000;
+}
+.title-contact {
+  text-align: center;
+  color: #8b0000;
+}
+.contacts-block {
+  margin-left: 40px;
+}
+
+body {
+  max-width: 1024px;
+  margin: 0 auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  text-align: justify;
+  line-height: 1.9;
+  color: #000000;
+  background-color: #e0f8fc;
+}
+.name-selection {
+  text-align: center;
+  color: #8b0000;
+}
+.name-section {
+  margin: 10px 0;
+  text-align: center;
+  color: #8b0000;
+}
+.logo-rss {
+  height: 50px;
+  margin: 30px;
+  text-align: center;
+}
+.text-git {
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
+}
+.logo-github {
+  height: 60px;
+  margin: 30px 15px;
+  text-align: center;
+}
+.year {
+  font-size: 17px;
+  text-align: right;
+}
